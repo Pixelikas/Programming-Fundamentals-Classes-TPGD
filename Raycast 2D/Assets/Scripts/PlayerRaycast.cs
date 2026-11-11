@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerRay : MonoBehaviour
+public class PlayerRaycast : MonoBehaviour
 {
 
     // Create variable to ray distance
